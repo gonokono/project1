@@ -4,6 +4,7 @@ public class countBit2 {
 	public static void main(String[] args) {
 		int cnt = countBits(5);
 		System.out.println("Git Test! by myself");
+		System.out.println("동시 수정");
 	}
 
 	public static int countBits(int number) {
