@@ -3,7 +3,7 @@ package study;
 public class countBit2 {
 	public static void main(String[] args) {
 		int cnt = countBits(5);
-		System.out.println("Git Test! by other developer");
+		System.out.println("Git Test! by myself");
 	}
 
 	public static int countBits(int number) {
